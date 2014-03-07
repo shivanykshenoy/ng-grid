@@ -1,0 +1,50 @@
+# =========================
+# Idea files
+# =========================
+/.idea
+*.iml
+atlassian-ide-plugin.xml
+
+# =========================
+# bower & node & npm
+# =========================
+
+/tmp
+/bower_components/
+/node_modules/
+/npm-debug.log
+
+# =========================
+# sublime text
+# =========================
+
+*.sublime*
+
+# =========================
+# test results
+# =========================
+junit
+
+# =========================
+# jar files
+# =========================
+/target
+/wrapper
+
+# =========================
+# Windows detritus
+# =========================
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac crap
+.DS_Store

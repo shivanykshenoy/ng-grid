@@ -1,0 +1,29 @@
+{
+    "name": "sks-ng-grid",
+    "version": "0.0.1",
+    "main": ["./ng-grid.min.css", "./build/ng-grid.min.js"],
+    "dependencies": {
+        "angular": "~1.2.2",
+        "angular-resource": "~1.2.2",
+        "angular-animate": "~1.2.2",
+        "angular-sanitize": "~1.2.2",
+        "jquery": "*",
+        "bootstrap": "3.0.3",
+        "sugar": "*",
+        "components-font-awesome": ">=4.0 ",
+        "angular-bootstrap": "*",
+        "angular-ui-select2": "*"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test*",
+        "demo*",
+        "GruntFile.js",
+        "package.json"
+    ],
+    "devDependencies": {
+        "angular-mocks": "~1.2.2"
+    }
+}
